@@ -1,0 +1,1 @@
+Download the file `FPA_FOD_20170508.sqlite` from https://www.kaggle.com/rtatman/188-million-us-wildfires and place in this location.
