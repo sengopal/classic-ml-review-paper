@@ -1,9 +1,15 @@
 ### Introduction
-
-### Paper Abstract
+Classic machine learning algorithms have been reviewed and studied mathematically on its performance and properties in detail. This paper intends to review the empirical functioning of widely used classical supervised learning algorithms such as Decision Trees, Boosting, Support Vector Machines, k-nearest Neighbors and a shallow Artificial Neural Network. The paper evaluates these algorithms on a sparse tabular data for classification task and observes the effect on specific hyperparameters on these algorithms when the data is synthetically modified for higher noise. These perturbations were introduced to observe these algorithms on their efficiency in generalizing for sparse data and their utility of different parameters to improve classification accuracy. The paper intends to show that these classic algorithms are fair learners even for such limited data due to their inherent properties even for noisy and sparse datasets.
 
 ### Citation
+If you find this project useful in your research or work, please consider citing it:
 
+@article{sengopal2023classic,
+      title={Classic algorithms are fair learners for limited data: An analysis using classification of natural weather and wildfire occurrences}, 
+      author={Senthilkumar Gopal},
+      journal={arXiv preprint arXiv:tbd},
+      year={2023}
+}
 
 ### Setup Instructions
 1. All the necessary files are available at <add repo link>
@@ -14,7 +20,7 @@ a. Rattle - https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
 b. Wildfire - https://www.kaggle.com/rtatman/188-million-us-wildfires
 
 ### Dataset setup
-1. Rattle dataset is already available in Github. For some reason, if that needs to be updated, drop the downloaded file as `\data\rattle\weatherAUS.csv` <provide the link to download weather>
+1. Rattle dataset is already available in Github. For some reason, if that needs to be updated, drop the downloaded file as `\data\rattle\weatherAUS.csv`
 2. Wildfire is too large and is "not" available in Github. Download the file `FPA_FOD_20170508.sqlite` from https://www.kaggle.com/rtatman/188-million-us-wildfires and place in location - `\data\wildfire\FPA_FOD_20170508.sqlite`
 
 ### Installations
