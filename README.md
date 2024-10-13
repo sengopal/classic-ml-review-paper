@@ -5,11 +5,11 @@ Classic machine learning algorithms have been reviewed and studied mathematicall
 ### Citation
 If you find this project useful in your research or work, please consider citing it:
 ```
-@article{sengopal2023classic,
-      title={Classic algorithms are fair learners for limited data: An analysis using classification of natural weather and wildfire occurrences}, 
-      author={Senthilkumar Gopal},
-      journal={arXiv preprint arXiv:tbd},
-      year={2023}
+@article{gopal2023classic,
+  title={Classic algorithms are fair learners: Classification Analysis of natural weather and wildfire occurrences},
+  author={Gopal, Senthilkumar},
+  journal={arXiv preprint arXiv:2309.01381},
+  year={2023}
 }
 ```
 ### Setup Instructions
